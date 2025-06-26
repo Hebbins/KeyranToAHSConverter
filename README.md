@@ -51,7 +51,7 @@ This is the simplest method and requires no special software.
 
 You can access a live version of the converter here:
 
-➡️ **[Live Demo Link](https://your-github-pages-link-here.io/)**
+➡️ **[Live Demo Link](https://hebbins.github.io/KeyranToAHSConverter/converter.html)**
 
 ## 🛠️ How It Works
 
