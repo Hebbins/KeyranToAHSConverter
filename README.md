@@ -63,12 +63,6 @@ The converter uses a combination of JavaScript technologies to perform the conve
 4.  **AHK Boilerplate Injection:** The translated commands are wrapped in a robust AutoHotkey template that includes performance optimizations, a toggle variable, and the user-defined hotkey.
 5.  **Dynamic Updates:** The entire user interface is interactive, with the output updating instantly when you click the "Convert Script" button.
 
-## 💻 Tech Stack
-
-- **HTML5:** For the core structure of the web page.
-- **Tailwind CSS:** For modern, responsive, and utility-first styling.
-- **JavaScript (ES6+):** For all the conversion logic, DOM manipulation, and user interaction.
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you have ideas for new features, find a bug, or want to improve the key mappings, please feel free to:
@@ -78,7 +72,3 @@ Contributions are welcome! If you have ideas for new features, find a bug, or wa
 3.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4.  Push to the branch (`git push origin feature/AmazingFeature`).
 5.  Open a Pull Request.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
